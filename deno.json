@@ -1,6 +1,7 @@
 {
   "name": "@datablocks/block",
-  "version": "0.1.1",
+  "description": "Block is a data structure/collection that uses Blockchain principle in managing and storing data.",
+  "version": "0.1.2",
   "license": "MIT",
   "exports": "./src/main.ts",
   "tasks": {
