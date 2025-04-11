@@ -1,5 +1,5 @@
-import { Block, block } from "./main.ts"
-import type { BlockType } from "./main.ts"
+import { Block, block } from "./src/main.ts"
+import type { BlockType } from "./src/main.ts"
 
 
 const users = [
