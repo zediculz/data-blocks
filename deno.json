@@ -1,0 +1,14 @@
+{
+  "name": "@datablocks/block",
+  "version": "0.0.1",
+  "license": "MIT",
+  "exports": "./main.ts",
+  "tasks": {
+    "dev": "deno run --watch -RW main.ts",
+    "slow": "deno run -RW main.ts",
+    "test": "deno run --watch -RW test.ts"
+  },
+  "imports": {
+    
+  }
+}
